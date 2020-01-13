@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## *C*itizens and *A*cademics using *M*achine *L*earning for *E*c*o*logy and E*N*ergy - CAMLEoN
 
-You can use the [editor on GitHub](https://github.com/CAMLEoN/camleon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<div class="row">
+  <div class="col-md-8" markdown="1">
+  Some text.
+  </div>
+  <div class="col-md-4" markdown="1">
+  <!-- ![Alt Text](../img/folder/blah.jpg) -->
+  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
+  </div>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
