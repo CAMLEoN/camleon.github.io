@@ -1,0 +1,32 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'apham'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu:
+  - name: Nos réalisations
+    submenu:
+      - name: Surfrider
+        link: /projects/sufrider
+      - name: Otaries
+        link: /projects/otaries
+  - name: Tous les projets
+    link: /
+  # - name: Tags
+  #   link: /tags
+  - name: À propos
+    link: /about
+  - name: Follow me
+    submenu:
+      - name: GitHub
+        icon: github
+        link: https://github.com/CAMLEoN
+      # - name: LinkedIn
+      #   icon: linkedin-square
+      #   link: http://www.linkedin.com/in/alainpham
+      # - name: Twitter
+      #   icon: twitter
+      #   link: https://twitter.com/koint
