@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+  {% include nav-projet.html %}
+  <!-- {% include call-to-action.html %} -->
+  {% include header-projet.html %}
+
+  {{ content }}
+
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-12 text-center">
+              <h2 class="section-heading">Tous nos projets</h2>
+          </div>
+      </div>
+  </div>
+  {% include projets.html %}
+  <!-- {% include aside.html %} -->
+  {% include contact.html %}
+  {% include scripts.html %}
+</body>
+
+</html>
